@@ -1,0 +1,23 @@
+# Escape
+print("line1\nline2")
+print("item1\titem2")
+print("He said,\"hello\"")
+print("It\'s python")
+#newline (\n)
+print("Welcome to python\nlet's learn together")
+# Tab(\t)
+print("Name\tAge\tLocation")
+print("Sarah\t23\tAbeokuta")
+# Qoutes inside string
+print("she said, \"Hello there!\"")
+print('It\'s a sunny day.')
+#(" xxxxxxxx", "\n  xxxxxx", "\n  xxxxx" , "\n xxxxx")
+print("welcome to python\nlet's learn together")
+print("I want to eat the following:\n beans,\n fried plantain")
+print("pick out the correct option to the question, what is your class? \n a)  JSS 1,\n b) JSS2, \n c) JSS3")
+print("student data:\n name:\t --------- \n age:\t -------- \n class:\t -------")
+print("The woman called out to the children, \"are you alright?\" ")
+
+print("python", "is", "fun", sep=" -")
+print("This is the first line.", end=" ")
+print("This is the second line. ")
